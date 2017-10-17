@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MegaGame</string>
+    <string name="lblTitle">Saisir une valeur entre 1 et 100 :</string>
+    <string name="btnCompare">Comparer</string>
+    <string name="lblResult">TextView</string>
+    <string name="strGreater">Veuillez saisir une valeur plus grande.</string>
+    <string name="strLower">Veuillez saisir une valeur plus petite.</string>
+    <string name="strCongratulations">Félicitations !</string>
+    <string name="strMessage">Félicitations, vous avez trouvé en %d coups.</string>
+    <string name="strNon">Non</string>
+    <string name="strOk">Ok</string>
+    <string name="strPerdu">Vous avez perdu, dommage.</string>
+    <string name="strMessagePerdu">Voulez vous retenter votre chance ?</string>
+</resources>
